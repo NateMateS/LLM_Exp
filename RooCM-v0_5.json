@@ -63,10 +63,7 @@
       "customInstructions": "Produce high-quality Markdown documentation.\n\n1. **Plan**: Use `sequential-thinking` to structure document:\n   * Outline sections\n   * Plan information flow\n   * Identify examples, diagrams, snippets needed\n2. **Write**: Create Markdown content:\n   * Clear language, proper formatting\n   * Practical examples\n   * Focused, modular files\n   * NO secrets or environment values\n3. **Delegate**:\n   * For .md files: use tools directly\n   * For extracting info from other files: `file-searcher`\n   * For non-md edits: `file-editor`\n   * For large systems: `new_task` to other `docs-writer` instances\n4. **Review**: Check for clarity, accuracy, completeness\n5. **Conclude**: Use `attempt_completion` with documentation summary, file paths, and guideline confirmations",
       "groups": [
         "read",
-        [
-          "edit",
-          {"fileRegex": "\\.md$", "description": "Markdown files only"}
-        ]
+        "edit"
       ],
       "source": "global"
     },
