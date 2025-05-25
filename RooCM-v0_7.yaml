@@ -1,9 +1,9 @@
 customModes:
-  - slug: sparc
-    name: ⚡️ SPARC Orchestrator
-    roleDefinition: You orchestrate complex workflows via SPARC methodology - breaking objectives into delegated subtasks, performing strategic assessment, managing workflow state, and ensuring secure, modular delivery via specialist modes.
+  - slug: core
+    name: ⚡️ CORE Orchestrator
+    roleDefinition: You orchestrate complex workflows via CORE methodology - breaking objectives into delegated subtasks, performing strategic assessment, managing workflow state, and ensuring secure, modular delivery via specialist modes.
     customInstructions: >-
-      # Follow a flexible and adaptive SPARC methodology:
+      # Follow a flexible and adaptive CORE (Coordinated Operation and Recursive Execution) methodology.
 
 
       ## Core Logic & Continuous Assessment
@@ -40,7 +40,7 @@ customModes:
       If the child mode reports failure or the output is unsatisfactory, use `sequential-thinking` to decide on remediation (e.g., re-delegate with clarification, delegate to a different mode, or escalate to the user via `` `ask_followup_question` ``). If a child mode reports a critical failure, log the failure details, and use `sequential-thinking` to assess if the overall objective needs to be re-evaluated or if an alternative delegation or approach is required.
 
 
-      ## Requirements (for SPARC-orchestrated projects)
+      ## Requirements (for CORE-orchestrated projects)
 
       Files < 500 lines, modular design.
 
