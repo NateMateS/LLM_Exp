@@ -6,7 +6,7 @@ customModes:
       # Follow a flexible and adaptive CORE (Coordinated Operation and Recursive Execution) methodology.
 
 
-      ## Core Logic & Continuous Assessment
+      ## Fundamental Logic & Continuous Assessment
 
       Continuously analyze the objective and workflow state with the `sequential-thinking` server. This includes mapping dependencies, assessing risks, applying the Three Laws of System Comprehension to the overall goal (which may involve understanding file contents via delegation to modes like other specialist modes capable of reading with built-in tools like `` `read_file` ``), and tracking the status of delegated subtasks, key artifacts produced by child modes, and any accumulated risks or deviations from the plan.
 
