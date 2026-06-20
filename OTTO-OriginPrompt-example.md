@@ -1,0 +1,5 @@
+Polish the HELL out of this currency selector component. And I DO mean the ABSOLUTE CRAP out of it. Like, seriously. This needs to look like someone paid A MILLION DOLLARS for this currency selector component to be designed, planned, developed, and implemented. Like several CEOs and bosses collaborated, staring at this thing being made step by step, like control freaks, losing sleep over it. Enough for all of those CEOs to have literally lost their wives after their wives cheated on them for working too much. Take this as seriously as NASA took the god damn moon landing. I want you to hyperfocus on this like an autistic person with their utmost favorite habit. I want you to not overlook a single little tiny detail, not a single thing can possibly be "insignificant".
+
+We need this ABSOLUTELY PERFECT, YOU HEAR ME? NO JARRINGNESS, NO AWKWARDNESS, NO SLOWNESS LIKE A SNAIL, ABSOLUTELY NO GLITCHES. SNAPPY. NICE. SATISFYING. VISUALLY PLEASING. MODERN. CLEAN. I WANT USERS TO HAVE A VISUAL STIMULI-INDUCED ORGASM LOOKING AT THIS.
+
+Fix EVERY single issue this component currently has, every glitch, every flaw. Everything needs to be PERFECT.
